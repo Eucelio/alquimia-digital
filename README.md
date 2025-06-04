@@ -1,5 +1,3 @@
-# alquimia-digital
-Crio conteúdos para o you tube sobre AUTODESENVOLVIMENTO E ESPIRITUALIDADE.
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
