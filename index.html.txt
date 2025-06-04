@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8FS3RQFHCT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-8FS3RQFHCT');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Mapa Místico Pessoal: Numerologia, Astrologia e Elementos Ritualísticos com base em seus dados de nascimento.">
+  <meta name="keywords" content="numerologia, astrologia, espiritualidade, mapa astral, mapa numerológico, alquimia, autoconhecimento">
+  <meta name="author" content="Théo Xavier">
+  <title>Alquimia Digital</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Georgia', serif;
+      background: url('https://images.unsplash.com/photo-1614728894742-fb2a207b0e1d?auto=format&fit=crop&w=1470&q=80') no-repeat center center fixed;
+      background-size: cover;
+      color: #f5f5f5;
+    }
+
+    .container {
+      background: rgba(0, 0, 0, 0.75);
+      padding: 2rem;
+      max-width: 800px;
+      margin: 2rem auto;
+      border-radius: 16px;
+      box-shadow: 0 0 20px #a88c5f;
+    }
+
+    h1, h2 {
+      text-align: center;
+      color: #e0c186;
+    }
+
+    p {
+      line-height: 1.6;
+      margin-bottom: 1rem;
+    }
+
+    .icons {
+      text-align: center;
+      margin-top: 2rem;
+    }
+
+    .icons a {
+      margin: 0 15px;
+      color: #e0c186;
+      font-size: 2rem;
+      transition: transform 0.3s;
+    }
+
+    .icons a:hover {
+      transform: scale(1.2);
+    }
+
+    .ritual-elements img {
+      width: 80px;
+      margin: 10px;
+      filter: brightness(1.1);
+      border-radius: 12px;
+    }
+
+    .ritual-elements {
+      text-align: center;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Mapa Místico Pessoal</h1>
+    <p>Bem-vindo(a), iniciado(a)! Este é seu portal de autoconhecimento.</p>
+
+    <h2>Números-Chave:</h2>
+    <p><strong>Missão de Vida:</strong> 7</p>
+    <p><strong>Número da Alma:</strong> 3</p>
+    <p><strong>Destino:</strong> 1</p>
+
+    <h2>Influências Astrais:</h2>
+    <p><strong
